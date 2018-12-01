@@ -1,5 +1,11 @@
 .DS_Store
+.merlin
+.bsb.lock
 .vscode
+tags
+npm-debug.log
+.cache/
 node_modules
+/lib/bs/
 dist
 sandbox
